@@ -1,3 +1,4 @@
+'use client';
 // @path: app/[chapterId]/layout.tsx
 import { notFound } from 'next/navigation';
 import { availableModules } from '../book';
